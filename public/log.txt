@@ -1,0 +1,252 @@
+2026-04-25 02:27:03 | Array
+(
+    [text] => /start W2Le8HZWw2utAI6sWV0f0mPjmlY79zequuLCDiDh
+    [user] => Array
+        (
+            [id] => 6779926546
+            [is_bot] => 
+            [first_name] => Chu
+            [last_name] => Phương
+            [username] => MPhuowng
+            [language_code] => vi
+        )
+
+    [chat_id] => 6779926546
+)
+
+2026-04-25 02:27:03 | USER ID: 1
+2026-04-25 02:27:03 | TOKEN UPDATED ROWS: 1
+2026-04-25 02:27:04 | DONE SUCCESS
+2026-04-25 02:29:09 | NO UPDATE
+2026-04-25 02:46:30 | Array
+(
+    [text] => /start HrhK7sHg8m4XnyNHQP74qTzQdfgvnMcR6oqMSece
+    [user] => Array
+        (
+            [id] => 7495403774
+            [is_bot] => 
+            [first_name] => Đàm
+            [last_name] => Tổng
+            [username] => damquy99
+            [language_code] => en
+            [is_premium] => 1
+        )
+
+    [chat_id] => 7495403774
+)
+
+2026-04-25 02:46:30 | USER ID: 10
+2026-04-25 02:46:30 | TOKEN UPDATED ROWS: 1
+2026-04-25 02:46:31 | DONE SUCCESS
+2026-04-25 02:47:12 | Array
+(
+    [text] => /start 5oJfXjztDDGcEOB6k54WwnPyBgZaB3n7L03xSNCs
+    [user] => Array
+        (
+            [id] => 7495403774
+            [is_bot] => 
+            [first_name] => Đàm
+            [last_name] => Tổng
+            [username] => damquy99
+            [language_code] => en
+            [is_premium] => 1
+        )
+
+    [chat_id] => 7495403774
+)
+
+2026-04-25 02:47:12 | USER ID: 11
+2026-04-25 02:47:12 | TOKEN UPDATED ROWS: 1
+2026-04-25 02:47:13 | DONE SUCCESS
+2026-04-25 08:35:16 | Array
+(
+    [text] => /start 5oJfXjztDDGcEOB6k54WwnPyBgZaB3n7L03xSNCs
+    [user] => Array
+        (
+            [id] => 7495403774
+            [is_bot] => 
+            [first_name] => Đàm
+            [last_name] => Tổng
+            [username] => damquy99
+            [language_code] => en
+            [is_premium] => 1
+        )
+
+    [chat_id] => 7495403774
+)
+
+2026-04-25 08:36:15 | Array
+(
+    [text] => /start 6hjK0ZzketZcKoAAT5FzecYzAWZGpRlrJaht4gKB
+    [user] => Array
+        (
+            [id] => 7495403774
+            [is_bot] => 
+            [first_name] => Đàm
+            [last_name] => Tổng
+            [username] => damquy99
+            [language_code] => en
+            [is_premium] => 1
+        )
+
+    [chat_id] => 7495403774
+)
+
+2026-04-25 10:42:04 | Array
+(
+    [text] => /start vg86u0idespfvjzRzlp4ADGoOGga0bt0STWe0bfg
+    [user] => Array
+        (
+            [id] => 7896162651
+            [is_bot] => 
+            [first_name] => 🐾Đỗ
+            [last_name] => Tuấn Anh
+            [username] => tuanOk201
+            [language_code] => vi
+        )
+
+    [chat_id] => 7896162651
+)
+
+2026-04-25 10:44:42 | Array
+(
+    [text] => /start ay0eLdBmjUow0fcedZtGAmz4nZBpHQyYSCLmNcQu
+    [user] => Array
+        (
+            [id] => 8554789060
+            [is_bot] => 
+            [first_name] => Lee Sang
+            [last_name] => Hiec
+            [language_code] => vi
+        )
+
+    [chat_id] => 8554789060
+)
+
+2026-04-25 10:44:52 | Array
+(
+    [text] => /start zpy4i3bJE8BBnn8TSGoZH9h2nmDlTdeYJ59MYa46
+    [user] => Array
+        (
+            [id] => 7896162651
+            [is_bot] => 
+            [first_name] => 🐾Đỗ
+            [last_name] => Tuấn Anh
+            [username] => tuanOk201
+            [language_code] => vi
+        )
+
+    [chat_id] => 7896162651
+)
+
+2026-04-25 10:45:58 | Array
+(
+    [text] => /start 9PyWOcAXKCJsGXGTJ2qOm0NHj5BJ8BjDxEG6jt3s
+    [user] => Array
+        (
+            [id] => 8554789060
+            [is_bot] => 
+            [first_name] => Lee Sang
+            [last_name] => Hiec
+            [language_code] => vi
+        )
+
+    [chat_id] => 8554789060
+)
+
+2026-04-25 10:45:58 | USER ID: 12
+2026-04-25 10:45:58 | TOKEN UPDATED ROWS: 1
+2026-04-25 10:45:59 | DONE SUCCESS
+2026-04-25 10:46:07 | Array
+(
+    [text] => /start UnFYEcUTjgEZLze4Lr46s6YIGwEd755xN3NhtGB6
+    [user] => Array
+        (
+            [id] => 7896162651
+            [is_bot] => 
+            [first_name] => 🐾Đỗ
+            [last_name] => Tuấn Anh
+            [username] => tuanOk201
+            [language_code] => vi
+        )
+
+    [chat_id] => 7896162651
+)
+
+2026-04-25 10:46:07 | USER ID: 13
+2026-04-25 10:46:07 | TOKEN UPDATED ROWS: 1
+2026-04-25 10:46:08 | DONE SUCCESS
+2026-04-25 10:47:38 | Array
+(
+    [text] => /start EEznZEqslygfbMyaucd4BB97K5esnhar9Yx5XXCM
+    [user] => Array
+        (
+            [id] => 8554789060
+            [is_bot] => 
+            [first_name] => Lee Sang
+            [last_name] => Hiec
+            [language_code] => vi
+        )
+
+    [chat_id] => 8554789060
+)
+
+2026-04-25 10:47:38 | USER ID: 14
+2026-04-25 10:47:38 | TOKEN UPDATED ROWS: 1
+2026-04-25 10:47:40 | DONE SUCCESS
+2026-04-25 11:45:57 | Array
+(
+    [text] => /start bgaPvSiJbamrOSJ25uZCykV23iGkblevzqwidrJg
+    [user] => Array
+        (
+            [id] => 8554789060
+            [is_bot] => 
+            [first_name] => Lee Sang
+            [last_name] => Hiec
+            [language_code] => vi
+        )
+
+    [chat_id] => 8554789060
+)
+
+2026-04-25 11:45:57 | USER ID: 15
+2026-04-25 11:45:57 | TOKEN UPDATED ROWS: 1
+2026-04-25 11:45:58 | DONE SUCCESS
+2026-04-26 13:14:39 | Array
+(
+    [text] => /start QcoX2sDtkLEO8bcQZRVAD5kKSJYZqgugk5tzjmX1
+    [user] => Array
+        (
+            [id] => 6779926546
+            [is_bot] => 
+            [first_name] => Chu
+            [last_name] => Phương
+            [username] => MPhuowng
+            [language_code] => vi
+        )
+
+    [chat_id] => 6779926546
+)
+
+2026-04-26 13:14:39 | USER ID: 1
+2026-04-26 13:14:39 | TOKEN UPDATED ROWS: 1
+2026-04-26 13:14:41 | DONE SUCCESS
+2026-04-26 13:16:05 | Array
+(
+    [text] => /start lFd8kqSa2gRo4BtS4MfUZEUP7IqWqrYAA2LQVJMd
+    [user] => Array
+        (
+            [id] => 8554789060
+            [is_bot] => 
+            [first_name] => Lee Sang
+            [last_name] => Hiec
+            [language_code] => vi
+        )
+
+    [chat_id] => 8554789060
+)
+
+2026-04-26 13:16:05 | USER ID: 15
+2026-04-26 13:16:05 | TOKEN UPDATED ROWS: 1
+2026-04-26 13:16:06 | DONE SUCCESS
+2026-04-26 16:15:09 | NO MESSAGE

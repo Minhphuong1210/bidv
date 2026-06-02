@@ -1,0 +1,208 @@
+[2026-04-29 16:55:52] REQUEST FROM TELEGRAM:
+{"update_id":904616052,
+"message":{"message_id":6,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777481751,"text":"/start iLYkx7Zof8AeCsp4SnOAueQFaCUikdWj5STS9duG","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-29 16:58:15] REQUEST FROM TELEGRAM:
+{"update_id":904616053,
+"message":{"message_id":7,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777481894,"text":"/start xUGZQQ4gEifp3aaob1RDY2gvsa0G8WAuud5g9E5M","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-29 17:00:59] REQUEST FROM TELEGRAM:
+{"update_id":904616054,
+"message":{"message_id":8,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777482059,"text":"/start cNOCq03cgId45x392vLHSW4YavA3oGEKW45E2WuP","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-29 17:05:19] REQUEST FROM TELEGRAM:
+{"update_id":904616055,
+"callback_query":{"id":"1449446674178866394","from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"message":{"message_id":10,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777482308,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 User ID: 1\n\ud83d\udc64 T\u00ean: abc\n\ud83d\udcb3 STK: 00101010010101\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: hehehe\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +18,400 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 17\n\u23f0 00:05:07 30/04/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":33,"length":1,"type":"bold"},{"offset":43,"length":3,"type":"bold"},{"offset":55,"length":14,"type":"code"},{"offset":126,"length":6,"type":"text_link","url":"https://botcamap.fun/uploads/qrcodes/1776941864_house-solid.png"},{"offset":140,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_17"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_17"}]]}},"chat_instance":"-6711494118961886140","data":"approve_withdraw_17"}}
+
+[2026-04-29 17:23:00] REQUEST FROM TELEGRAM:
+{"update_id":904616056,
+"message":{"message_id":13,"from":{"id":7495403774,"is_bot":false,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","language_code":"en","is_premium":true},"chat":{"id":7495403774,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","type":"private"},"date":1777483379,"text":"/start R24nLKJvpIe7BaWxEjxzt7PElekO8AqAcKGyy5Wg","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 02:35:02] REQUEST FROM TELEGRAM:
+{"update_id":904616057,
+"message":{"message_id":15,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777516501,"text":"/start F3xkQtKXZOYxTTdUupabgo9NNifK3m3HRncgnnf9","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 02:35:30] REQUEST FROM TELEGRAM:
+{"update_id":904616058,
+"message":{"message_id":17,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777516530,"text":"/start R63c4PTqhMS2M8OsNLwPIUPETsVGEVnOAg2PiPPF","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 08:29:15] REQUEST FROM TELEGRAM:
+{"update_id":904616059,
+"message":{"message_id":19,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777537755,"text":"/start Z9fWGEHWamiEXMCSVnlB4iyDLW5TmoAmK5fwIcAk","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 08:55:15] REQUEST FROM TELEGRAM:
+{"update_id":904616060,
+"message":{"message_id":24,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777539315,"text":"/start Mt1aFLPYDHftGOqBE9w4iRLvmn2tlGtMJT87lmr7","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:00:41] REQUEST FROM TELEGRAM:
+{"update_id":904616061,
+"message":{"message_id":30,"from":{"id":7495403774,"is_bot":false,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","language_code":"en","is_premium":true},"chat":{"id":7495403774,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","type":"private"},"date":1777539640,"text":"."}}
+
+[2026-04-30 09:00:57] REQUEST FROM TELEGRAM:
+{"update_id":904616062,
+"message":{"message_id":31,"from":{"id":7495403774,"is_bot":false,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","language_code":"en","is_premium":true},"chat":{"id":7495403774,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","type":"private"},"date":1777539657,"text":"/start aWqAA7kogPvY48SF63wdLquDtFIFSQHxjfvCrdHf","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:04:26] REQUEST FROM TELEGRAM:
+{"update_id":904616063,
+"message":{"message_id":33,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777539865,"text":"/start nBE44F3302wiFlpBqzBPW90l18JpikSXUg8RxYQ9","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:06:49] REQUEST FROM TELEGRAM:
+{"update_id":904616064,
+"callback_query":{"id":"1449446673835533984","from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"message":{"message_id":35,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777539867,"text":"\ud83d\udd14 Y\u00caU C\u1ea6U DUY\u1ec6T USER M\u1edaI\n\n\ud83d\udc64 User: \n\ud83c\udd94 ID: 6721840878\n\ud83d\udcdb Username: @botcamap\n\ud83d\udcc5 L\u00fac: 16:04:27 30/04/2026","entities":[{"offset":3,"length":22,"type":"bold"},{"offset":44,"length":10,"type":"code"},{"offset":68,"length":9,"type":"mention"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_user_20"},{"text":"\ud83d\udeab Kh\u00f3a","callback_data":"block_user_20"}]]}},"chat_instance":"-6711494118961886140","data":"approve_user_20"}}
+
+[2026-04-30 09:07:09] REQUEST FROM TELEGRAM:
+{"update_id":904616065,
+"message":{"message_id":38,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540029,"text":"/start E8TcoTFt2VjVi4uupNt7V9JjCBsgY7ErBKUQ15fF","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:07:22] REQUEST FROM TELEGRAM:
+{"update_id":904616066,
+"message":{"message_id":40,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540042,"text":"/start ES5AanWF4PVcI8mE0nSJWqGd4pmfdDaYgkVCyOb1","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:08:46] REQUEST FROM TELEGRAM:
+{"update_id":49381325,
+"message":{"message_id":3102,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540126,"text":"https://botcamap.fun/admin","entities":[{"offset":0,"length":26,"type":"url"}],"link_preview_options":{"is_disabled":true}}}
+
+[2026-04-30 09:09:18] REQUEST FROM TELEGRAM:
+{"update_id":904616067,
+"message":{"message_id":42,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540157,"text":"/start AFoeOfFe07wokNl6Yyj6eq48CdoY0iOeRzQHxJhz","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:09:24] REQUEST FROM TELEGRAM:
+{"update_id":904616068,
+"message":{"message_id":44,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540164,"text":"/start gDTouEGWov71ar4NJY7xasCoTwPyiQmJjHFqESDG","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:09:47] REQUEST FROM TELEGRAM:
+{"update_id":904616069,
+"message":{"message_id":46,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540186,"text":"/start tT80SAQ1RQLvKGaC3mhyCjLZx16fgqVt5XywUKGa","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:11:01] REQUEST FROM TELEGRAM:
+{"update_id":904616070,
+"message":{"message_id":48,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540261,"text":"/start kSlSTtfs9P66kPATCsAQiZxOwxpWf2z35ePklEtS","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:11:34] REQUEST FROM TELEGRAM:
+{"update_id":904616071,
+"message":{"message_id":50,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540294,"text":"/start EQCYF9O2SudgHviZ9UvylGRc5Z0ZmNBeUoaK91pk","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:12:50] REQUEST FROM TELEGRAM:
+{"update_id":904616072,
+"message":{"message_id":52,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540370,"text":"/start FuIfckrFT9Inmj2EZkHJyPd9W95LrWeN74rYgQcP","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:19:20] REQUEST FROM TELEGRAM:
+{"update_id":904616073,
+"callback_query":{"id":"1199970632716445358","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":57,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540747,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 User ID: 20\n\ud83d\udc64 T\u00ean: DAM BA PHU\n\ud83d\udcb3 STK: 9999994669\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: TECH\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +9,100 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 19\n\u23f0 16:19:06 30/04/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":33,"length":2,"type":"bold"},{"offset":44,"length":10,"type":"bold"},{"offset":63,"length":10,"type":"code"},{"offset":127,"length":6,"type":"text_link","url":"https://botcamap.fun/"},{"offset":141,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_19"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_19"}]]}},"chat_instance":"-2365622338328449056","data":"approve_withdraw_19"}}
+
+[2026-04-30 09:19:29] REQUEST FROM TELEGRAM:
+{"update_id":904616074,
+"callback_query":{"id":"1199970630165385175","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":57,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540747,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 User ID: 20\n\ud83d\udc64 T\u00ean: DAM BA PHU\n\ud83d\udcb3 STK: 9999994669\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: TECH\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +9,100 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 19\n\u23f0 16:19:06 30/04/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":33,"length":2,"type":"bold"},{"offset":44,"length":10,"type":"bold"},{"offset":63,"length":10,"type":"code"},{"offset":127,"length":6,"type":"text_link","url":"https://botcamap.fun/"},{"offset":141,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_19"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_19"}]]}},"chat_instance":"-2365622338328449056","data":"approve_withdraw_19"}}
+
+[2026-04-30 09:24:01] REQUEST FROM TELEGRAM:
+{"update_id":904616075,
+"callback_query":{"id":"1199970629756487033","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":57,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540747,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 User ID: 20\n\ud83d\udc64 T\u00ean: DAM BA PHU\n\ud83d\udcb3 STK: 9999994669\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: TECH\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +9,100 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 19\n\u23f0 16:19:06 30/04/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":33,"length":2,"type":"bold"},{"offset":44,"length":10,"type":"bold"},{"offset":63,"length":10,"type":"code"},{"offset":127,"length":6,"type":"text_link","url":"https://botcamap.fun/"},{"offset":141,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_19"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_19"}]]}},"chat_instance":"-2365622338328449056","data":"approve_withdraw_19"}}
+
+[2026-04-30 09:24:07] REQUEST FROM TELEGRAM:
+{"update_id":904616076,
+"callback_query":{"id":"1199970631319341642","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":57,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777540747,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 User ID: 20\n\ud83d\udc64 T\u00ean: DAM BA PHU\n\ud83d\udcb3 STK: 9999994669\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: TECH\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +9,100 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 19\n\u23f0 16:19:06 30/04/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":33,"length":2,"type":"bold"},{"offset":44,"length":10,"type":"bold"},{"offset":63,"length":10,"type":"code"},{"offset":127,"length":6,"type":"text_link","url":"https://botcamap.fun/"},{"offset":141,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_19"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_19"}]]}},"chat_instance":"-2365622338328449056","data":"approve_withdraw_19"}}
+
+[2026-04-30 09:42:44] REQUEST FROM TELEGRAM:
+{"update_id":904616077,
+"callback_query":{"id":"1199970632308604017","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":63,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777542158,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 T\u00ean: nguyen van a\n\ud83d\udcb3 STK: 0111111111\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: BIDV\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +18,200 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 28\n\u23f0 16:42:38 30/04/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":29,"length":12,"type":"text_mention","user":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"}},{"offset":29,"length":12,"type":"bold"},{"offset":50,"length":10,"type":"code"},{"offset":115,"length":6,"type":"text_link","url":"https://botcamap.fun/"},{"offset":129,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_28"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_28"}]]}},"chat_instance":"-2365622338328449056","data":"approve_withdraw_28"}}
+
+[2026-04-30 09:43:35] REQUEST FROM TELEGRAM:
+{"update_id":904616078,
+"message":{"message_id":64,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777542215,"text":"/start Dp4Dbnfe05E89Q9dVmBpUzY5AbMcgJAmfAxvIQ8V","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 09:46:07] REQUEST FROM TELEGRAM:
+{"update_id":904616079,
+"message":{"message_id":66,"from":{"id":8554789060,"is_bot":false,"first_name":"Lee Sang","last_name":"Hiec","language_code":"vi"},"chat":{"id":8554789060,"first_name":"Lee Sang","last_name":"Hiec","type":"private"},"date":1777542366,"text":"/start 95s1lSgxEGtqrmZDV8RC7RWyRlUoWQkTRwjDtrSx","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 10:26:22] REQUEST FROM TELEGRAM:
+{"update_id":904616080,
+"callback_query":{"id":"1199970629719948872","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":63,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777542158,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 T\u00ean: nguyen van a\n\ud83d\udcb3 STK: 0111111111\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: BIDV\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +18,200 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 28\n\u23f0 16:42:38 30/04/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":29,"length":12,"type":"text_mention","user":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"}},{"offset":29,"length":12,"type":"bold"},{"offset":50,"length":10,"type":"code"},{"offset":115,"length":6,"type":"text_link","url":"https://botcamap.fun/"},{"offset":129,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_28"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_28"}]]}},"chat_instance":"-2365622338328449056","data":"approve_withdraw_28"}}
+
+[2026-04-30 16:41:54] REQUEST FROM TELEGRAM:
+{"update_id":904616081,
+"message":{"message_id":71,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777567314,"text":"/start qj8vY0PU1cUJQfBFd6GK64FG9p10YmQoDzV0ey6W","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 16:43:17] REQUEST FROM TELEGRAM:
+{"update_id":904616082,
+"message":{"message_id":73,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777567397,"text":"/start fmlIAWIC1HCMYRIDhdhoEk0q7aBz4aR017t8DBeN","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 16:55:50] REQUEST FROM TELEGRAM:
+{"update_id":904616083,
+"message":{"message_id":75,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777568150,"text":"/start gD9HSHVzsTITCFnWMXjXUcX4e9O1Fj5gHikrzj7y","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-30 18:40:56] REQUEST FROM TELEGRAM:
+{"update_id":904616084,
+"message":{"message_id":77,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777574456,"text":"/start 37Mim7JVxWVFbdXCch4E1Vir9IUBiQ60wwy96DFG","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 03:34:03] REQUEST FROM TELEGRAM:
+{"update_id":904616085,
+"message":{"message_id":79,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777606442,"text":"/start VQf0tL4BecpxLJnLZPrA4JPvZWuoADCxk1M0qj5q","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 03:34:13] REQUEST FROM TELEGRAM:
+{"update_id":904616086,
+"message":{"message_id":81,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777606453,"text":"/start Zb0AjSMXdyTHXX6huKnmq8XdpAEB0ZQTJ68geyws","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 03:34:20] REQUEST FROM TELEGRAM:
+{"update_id":904616087,
+"message":{"message_id":83,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777606459,"text":"/start Zb0AjSMXdyTHXX6huKnmq8XdpAEB0ZQTJ68geyws","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 05:32:50] REQUEST FROM TELEGRAM:
+{"update_id":904616088,
+"message":{"message_id":85,"from":{"id":7495403774,"is_bot":false,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","language_code":"en","is_premium":true},"chat":{"id":7495403774,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","type":"private"},"date":1777613569,"text":"/start dBcq8Ct7AUpsUJycyJfNQZF87is1jJw2rY3ukv6P","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 05:32:58] REQUEST FROM TELEGRAM:
+{"update_id":904616089,
+"message":{"message_id":89,"from":{"id":7495403774,"is_bot":false,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","language_code":"en","is_premium":true},"chat":{"id":7495403774,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","type":"private"},"date":1777613578,"text":"/start cMO0r7KvABJwSN3DabDNDBYHNf1gY8m7ntmwvodm","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 05:33:06] REQUEST FROM TELEGRAM:
+{"update_id":904616090,
+"callback_query":{"id":"1199970632782991191","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":88,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777613573,"text":"\ud83d\udd14 Y\u00caU C\u1ea6U DUY\u1ec6T USER M\u1edaI\n\n\ud83d\udc64 User: \n\ud83c\udd94 ID: 7495403774\n\ud83d\udcdb Username: @damquy99\n\ud83d\udcc5 L\u00fac: 12:32:51 01/05/2026","entities":[{"offset":3,"length":22,"type":"bold"},{"offset":44,"length":10,"type":"code"},{"offset":68,"length":9,"type":"mention"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_user_21"},{"text":"\ud83d\udeab Kh\u00f3a","callback_data":"block_user_21"}]]}},"chat_instance":"-2365622338328449056","data":"approve_user_21"}}
+
+[2026-05-01 05:33:09] REQUEST FROM TELEGRAM:
+{"update_id":904616091,
+"callback_query":{"id":"1199970633421119968","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":92,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777613580,"text":"\ud83d\udd14 Y\u00caU C\u1ea6U DUY\u1ec6T USER M\u1edaI\n\n\ud83d\udc64 User: \n\ud83c\udd94 ID: 7495403774\n\ud83d\udcdb Username: @damquy99\n\ud83d\udcc5 L\u00fac: 12:32:59 01/05/2026","entities":[{"offset":3,"length":22,"type":"bold"},{"offset":44,"length":10,"type":"code"},{"offset":68,"length":9,"type":"mention"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_user_21"},{"text":"\ud83d\udeab Kh\u00f3a","callback_data":"block_user_21"}]]}},"chat_instance":"-2365622338328449056","data":"approve_user_21"}}
+
+[2026-05-01 05:33:18] REQUEST FROM TELEGRAM:
+{"update_id":904616092,
+"message":{"message_id":97,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777613598,"text":"/start To3cDe3CKhKbykhXhvGV4gGo72ksFpHTm07S34PV","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 05:47:48] REQUEST FROM TELEGRAM:
+{"update_id":904616093,
+"message":{"message_id":99,"from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777614467,"text":"/start CLbf3VW8Qgfj36XhC5OMceHacR5yFPSP7vrW3jFJ","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 05:54:43] REQUEST FROM TELEGRAM:
+{"update_id":904616094,
+"callback_query":{"id":"1199970631707690718","from":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true},"message":{"message_id":101,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6721840878,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","type":"private"},"date":1777614877,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 T\u00ean: DAM BA PHU\n\ud83d\udcb3 STK: 9999994669\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: TECH\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +9,100 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 29\n\u23f0 12:54:37 01/05/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":29,"length":10,"type":"text_mention","user":{"id":6721840878,"is_bot":false,"first_name":"C\u00e1 M\u1eadp","username":"botcamap","language_code":"en","is_premium":true}},{"offset":29,"length":10,"type":"bold"},{"offset":48,"length":10,"type":"code"},{"offset":112,"length":6,"type":"text_link","url":"https://botcamap.fun/"},{"offset":126,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_29"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_29"}]]}},"chat_instance":"-2365622338328449056","data":"approve_withdraw_29"}}
+
+[2026-05-01 09:51:51] REQUEST FROM TELEGRAM:
+{"update_id":904616095,
+"message":{"message_id":114,"from":{"id":7672166447,"is_bot":false,"first_name":"Th\u1ecbnh","last_name":"Duy","language_code":"vi"},"chat":{"id":7672166447,"first_name":"Th\u1ecbnh","last_name":"Duy","type":"private"},"date":1777629111,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 09:57:19] REQUEST FROM TELEGRAM:
+{"update_id":904616096,
+"message":{"message_id":115,"from":{"id":8554789060,"is_bot":false,"first_name":"Lee Sang","last_name":"Hiec","language_code":"vi"},"chat":{"id":8554789060,"first_name":"Lee Sang","last_name":"Hiec","type":"private"},"date":1777629438,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 10:01:37] REQUEST FROM TELEGRAM:
+{"update_id":904616097,
+"message":{"message_id":117,"from":{"id":8554789060,"is_bot":false,"first_name":"Lee Sang","last_name":"Hiec","language_code":"vi"},"chat":{"id":8554789060,"first_name":"Lee Sang","last_name":"Hiec","type":"private"},"date":1777629696,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 10:01:53] REQUEST FROM TELEGRAM:
+{"update_id":904616098,
+"callback_query":{"id":"1449446677676243184","from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"message":{"message_id":119,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777629700,"text":"\ud83d\udd14 Y\u00caU C\u1ea6U DUY\u1ec6T USER M\u1edaI\n\n\ud83d\udc64 User: Lee Sang\n\ud83c\udd94 ID: 8554789060\n\ud83d\udcdb Username: @N/A\n\ud83d\udcc5 L\u00fac: 17:01:39 01/05/2026","entities":[{"offset":3,"length":22,"type":"bold"},{"offset":36,"length":8,"type":"bold"},{"offset":52,"length":10,"type":"code"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_user_25"},{"text":"\ud83d\udeab Kh\u00f3a","callback_data":"block_user_25"}]]}},"chat_instance":"-6711494118961886140","data":"approve_user_25"}}
+
+[2026-05-01 10:04:44] REQUEST FROM TELEGRAM:
+{"update_id":904616099,
+"message":{"message_id":122,"from":{"id":8554789060,"is_bot":false,"first_name":"Lee Sang","last_name":"Hiec","language_code":"vi"},"chat":{"id":8554789060,"first_name":"Lee Sang","last_name":"Hiec","type":"private"},"date":1777629883,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 10:04:55] REQUEST FROM TELEGRAM:
+{"update_id":904616100,
+"callback_query":{"id":"1449446674495321861","from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"message":{"message_id":124,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777629885,"text":"\ud83d\udd14 Y\u00caU C\u1ea6U DUY\u1ec6T USER M\u1edaI\n\n\ud83d\udc64 User: Lee Sang\n\ud83c\udd94 ID: 8554789060\n\ud83d\udcdb Username: @N/A\n\ud83d\udcc5 L\u00fac: 17:04:45 01/05/2026","entities":[{"offset":3,"length":22,"type":"bold"},{"offset":36,"length":8,"type":"bold"},{"offset":52,"length":10,"type":"code"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_user_26"},{"text":"\ud83d\udeab Kh\u00f3a","callback_data":"block_user_26"}]]}},"chat_instance":"-6711494118961886140","data":"approve_user_26"}}
+
+[2026-05-01 10:09:18] REQUEST FROM TELEGRAM:
+{"update_id":904616101,
+"message":{"message_id":127,"from":{"id":7672166447,"is_bot":false,"first_name":"Th\u1ecbnh","last_name":"Duy","language_code":"vi"},"chat":{"id":7672166447,"first_name":"Th\u1ecbnh","last_name":"Duy","type":"private"},"date":1777630157,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-05-01 10:09:29] REQUEST FROM TELEGRAM:
+{"update_id":904616102,
+"callback_query":{"id":"1449446675287041695","from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"message":{"message_id":129,"from":{"id":8550408139,"is_bot":true,"first_name":"tien_tien","username":"mony_ve_bot"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777630160,"text":"\ud83d\udd14 Y\u00caU C\u1ea6U DUY\u1ec6T USER M\u1edaI\n\n\ud83d\udc64 User: Th\u1ecbnh\n\ud83c\udd94 ID: 7672166447\n\ud83d\udcdb Username: @N/A\n\ud83d\udcc5 L\u00fac: 17:09:19 01/05/2026","entities":[{"offset":3,"length":22,"type":"bold"},{"offset":36,"length":5,"type":"bold"},{"offset":49,"length":10,"type":"code"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_user_27"},{"text":"\ud83d\udeab Kh\u00f3a","callback_data":"block_user_27"}]]}},"chat_instance":"-6711494118961886140","data":"approve_user_27"}}
+

@@ -1,0 +1,260 @@
+[2026-04-24 17:05:03] REQUEST:
+{"update_id":49381220,
+"message":{"message_id":2939,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777050303,"text":"/start 4EBXXmsXMrG6XC8jmK7YPu56i7pAwoi5xfmXGc8V","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-24 17:07:18] REQUEST:
+{"update_id":49381221,
+"message":{"message_id":2940,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777050438,"text":"/start jA5wY1C3VPrlwupPMhUlKpFheJeoTwEOL3IRogRF","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-24 17:08:35] REQUEST:
+{"update_id":49381222,
+"message":{"message_id":2942,"from":{"id":7896162651,"is_bot":false,"first_name":"\ud83d\udc3e\u0110\u1ed7","last_name":"Tu\u1ea5n Anh","username":"tuanOk201","language_code":"vi"},"chat":{"id":7896162651,"first_name":"\ud83d\udc3e\u0110\u1ed7","last_name":"Tu\u1ea5n Anh","username":"tuanOk201","type":"private"},"date":1777050515,"text":"/start HczBQDojgqAnJZd4KmKeRB8tYw291F9CrI5USQy2","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-24 17:12:58] REQUEST:
+{"update_id":49381224,
+"message":{"message_id":2945,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777050778,"text":"/bulk","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-24 17:14:26] REQUEST:
+{"update_id":49381225,
+"message":{"message_id":2947,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777050866,"text":"1234"}}
+
+[2026-04-24 17:14:44] REQUEST:
+{"update_id":49381225,
+"message":{"message_id":2947,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777050866,"text":"1234"}}
+
+[2026-04-24 17:16:55] REQUEST:
+{"update_id":49381226,
+"message":{"message_id":2949,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777051015,"text":"/bulk","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-24 17:17:38] REQUEST:
+{"update_id":49381227,
+"message":{"message_id":2951,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777051058,"text":"7896162651","entities":[{"offset":0,"length":10,"type":"phone_number"}]}}
+
+[2026-04-24 17:18:58] REQUEST:
+{"update_id":49381228,
+"message":{"message_id":2953,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777051138,"text":"anh"}}
+
+[2026-04-24 17:19:48] REQUEST:
+{"update_id":49381229,
+"message":{"message_id":2955,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777051188,"text":"20"}}
+
+[2026-04-24 17:20:41] REQUEST:
+{"update_id":49381230,
+"message":{"message_id":2957,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777051241,"text":"BIDV"}}
+
+[2026-04-25 01:08:53] REQUEST:
+{"update_id":49381231,
+"message":{"message_id":2959,"from":{"id":7495403774,"is_bot":false,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","language_code":"en","is_premium":true},"chat":{"id":7495403774,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","type":"private"},"date":1777078684,"text":"/start poxuUx3k9h14sCekOBBuHfkJau0Tz3YAIZYeo24P","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-25 01:08:54] REQUEST:
+{"update_id":49381232,
+"message":{"message_id":2960,"from":{"id":7495403774,"is_bot":false,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","language_code":"en","is_premium":true},"chat":{"id":7495403774,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","type":"private"},"date":1777078708,"text":"/start q2zcQZ9H2Od5A0myidx2tI3LctDSVPVbcRkUB611","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-25 01:08:55] REQUEST:
+{"update_id":49381233,
+"message":{"message_id":2961,"from":{"id":7495403774,"is_bot":false,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","language_code":"en","is_premium":true},"chat":{"id":7495403774,"first_name":"\u0110\u00e0m","last_name":"T\u1ed5ng","username":"damquy99","type":"private"},"date":1777078710,"text":"/start q2zcQZ9H2Od5A0myidx2tI3LctDSVPVbcRkUB611","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-25 01:09:10] REQUEST:
+{"update_id":49381234,
+"message":{"message_id":2962,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777079349,"text":"/start rT8wC2hFKjF9zlZO4qPYofB9IHyt38v2WKAAi98w","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-25 01:10:09] REQUEST:
+{"update_id":49381235,
+"message":{"message_id":2963,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777079408,"text":"/start wwod6MeTO8z5Ws9UGLIcIMBfXVu0GbHeyZaY7mYt","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-25 01:12:00] REQUEST:
+{"update_id":49381236,
+"message":{"message_id":2965,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777079519,"text":"/bulk","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-25 01:12:51] REQUEST:
+{"update_id":49381237,
+"message":{"message_id":2967,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777079571,"text":"7896162651","entities":[{"offset":0,"length":10,"type":"phone_number"}]}}
+
+[2026-04-25 01:13:33] REQUEST:
+{"update_id":49381238,
+"message":{"message_id":2969,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777079612,"text":"3"}}
+
+[2026-04-25 01:14:17] REQUEST:
+{"update_id":49381239,
+"message":{"message_id":2971,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777079656,"text":"10"}}
+
+[2026-04-25 01:17:26] REQUEST:
+{"update_id":49381240,
+"message":{"message_id":2973,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777079845,"text":"/bulk","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-25 01:42:01] REQUEST FROM TELEGRAM:
+{"update_id":49381241,
+"message":{"message_id":2974,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777080698,"text":"/start zd5csfePw2OAJjRUehsvrxwoNFqOqV8IJIDNp5of","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-25 01:42:02] REQUEST FROM TELEGRAM:
+{"update_id":49381242,
+"message":{"message_id":2975,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777080822,"text":"/start h4CqvKsR8YmEMp7aJWXvg038JdChoy6YVhXcVtb8","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-25 01:42:02] REQUEST FROM TELEGRAM:
+{"update_id":49381243,
+"message":{"message_id":2976,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777081033,"text":"/start W8OKOd7OBN3iXylFrP3SeEBEiLnlEY94EYNFtvTa","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-25 02:24:57] REQUEST FROM TELEGRAM:
+{"update_id":49381244,
+"message":{"message_id":2977,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777083899,"text":"/start cVBtt5vd0a0gAcCM9TxXfCqRUEk0ppO8SfxrlfTE","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-27 16:17:28] REQUEST FROM TELEGRAM:
+{"update_id":49381260,
+"message":{"message_id":3025,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777306648,"text":"/start bu4pqs7zmvwOeFKkPf7tZAN4nWyd1i5eGVFFtx09","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-27 16:18:04] REQUEST FROM TELEGRAM:
+{"update_id":49381261,
+"message":{"message_id":3026,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777306685,"text":"/start 7o3irR982I61GZeAlBuIHI8SBO6yr4346i6Axiju","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-27 16:38:31] REQUEST FROM TELEGRAM:
+{"update_id":49381262,
+"callback_query":{"id":"1449446676110838535","from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"message":{"message_id":3028,"from":{"id":8610845196,"is_bot":true,"first_name":"Ti\u1ec1n v\u1ec1 2","username":"nguoi_dung_phuong_bot"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777307900,"text":"\ud83d\udfe2 Y\u00eau c\u1ea7u r\u00fat ti\u1ec1n\n\n\ud83d\udc64 User ID: 1\n\ud83d\udc64 T\u00ean: abc\n\ud83d\udcb3 STK: 00101010010101\n\ud83c\udfe6 Ng\u00e2n h\u00e0ng: hehehe\n\ud83d\udcb0 S\u1ed1 ti\u1ec1n: +18,400 VND\n\ud83d\udcf8 \u1ea2nh QR:\nXem QR\n\ud83c\udd94 ID: 15\n\u23f0 23:38:18 27/04/2026","entities":[{"offset":3,"length":16,"type":"bold"},{"offset":33,"length":1,"type":"bold"},{"offset":43,"length":3,"type":"bold"},{"offset":55,"length":14,"type":"code"},{"offset":126,"length":6,"type":"text_link","url":"http://habitant-washstand-ought.ngrok-free.dev/uploads/qrcodes/1776941864_house-solid.png"},{"offset":140,"length":2,"type":"code"}],"link_preview_options":{"is_disabled":true},"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Duy\u1ec7t","callback_data":"approve_withdraw_15"},{"text":"\u274c T\u1eeb ch\u1ed1i","callback_data":"reject_withdraw_15"}]]}},"chat_instance":"-1823173239885493754","data":"approve_withdraw_15"}}
+
+[2026-04-27 16:59:25] REQUEST FROM TELEGRAM:
+{"update_id":49381263,
+"message":{"message_id":3031,"from":{"id":8554789060,"is_bot":false,"first_name":"Lee Sang","last_name":"Hiec","language_code":"vi"},"chat":{"id":8554789060,"first_name":"Lee Sang","last_name":"Hiec","type":"private"},"date":1777309166,"text":"/start KKKttE960rmCzQaomqSkcjJ679OrjENXOdccIslW","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-28 21:59:32] REQUEST FROM TELEGRAM:
+{"update_id":49381264,
+"message":{"message_id":3036,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777413573,"text":"/start bzlOawMVnrVFq50bCOMnQnvBLkDIvUWFPB3echBH","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-28 22:12:45] REQUEST FROM TELEGRAM:
+{"update_id":49381265,
+"message":{"message_id":3038,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777414365,"text":"/start zCjme5XT4i361y5So4MUrfzAQHtC3IrS2ulMjpA5","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-04-28 22:35:40] REQUEST FROM TELEGRAM:
+{"update_id":49381266,
+"message":{"message_id":3040,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415740,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:35:51] REQUEST FROM TELEGRAM:
+{"update_id":49381267,
+"message":{"message_id":3041,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415741,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:36:02] REQUEST FROM TELEGRAM:
+{"update_id":49381268,
+"message":{"message_id":3042,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415742,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:36:12] REQUEST FROM TELEGRAM:
+{"update_id":49381269,
+"message":{"message_id":3043,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415742,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:36:23] REQUEST FROM TELEGRAM:
+{"update_id":49381270,
+"message":{"message_id":3044,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415743,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:36:33] REQUEST FROM TELEGRAM:
+{"update_id":49381271,
+"message":{"message_id":3045,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415744,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:36:43] REQUEST FROM TELEGRAM:
+{"update_id":49381272,
+"message":{"message_id":3046,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415745,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:36:54] REQUEST FROM TELEGRAM:
+{"update_id":49381273,
+"message":{"message_id":3047,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415745,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:37:04] REQUEST FROM TELEGRAM:
+{"update_id":49381274,
+"message":{"message_id":3048,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415746,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:37:15] REQUEST FROM TELEGRAM:
+{"update_id":49381275,
+"message":{"message_id":3049,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415747,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:37:25] REQUEST FROM TELEGRAM:
+{"update_id":49381276,
+"message":{"message_id":3050,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415748,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:37:35] REQUEST FROM TELEGRAM:
+{"update_id":49381277,
+"message":{"message_id":3051,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415749,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:37:46] REQUEST FROM TELEGRAM:
+{"update_id":49381278,
+"message":{"message_id":3052,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415749,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:37:56] REQUEST FROM TELEGRAM:
+{"update_id":49381279,
+"message":{"message_id":3053,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415750,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:38:07] REQUEST FROM TELEGRAM:
+{"update_id":49381280,
+"message":{"message_id":3054,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415751,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:38:17] REQUEST FROM TELEGRAM:
+{"update_id":49381281,
+"message":{"message_id":3055,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415752,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:38:28] REQUEST FROM TELEGRAM:
+{"update_id":49381282,
+"message":{"message_id":3056,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415753,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:38:38] REQUEST FROM TELEGRAM:
+{"update_id":49381283,
+"message":{"message_id":3057,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415754,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:38:48] REQUEST FROM TELEGRAM:
+{"update_id":49381284,
+"message":{"message_id":3058,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415755,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:38:59] REQUEST FROM TELEGRAM:
+{"update_id":49381285,
+"message":{"message_id":3059,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415755,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:39:09] REQUEST FROM TELEGRAM:
+{"update_id":49381286,
+"message":{"message_id":3060,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415757,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:39:20] REQUEST FROM TELEGRAM:
+{"update_id":49381287,
+"message":{"message_id":3061,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415757,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:39:30] REQUEST FROM TELEGRAM:
+{"update_id":49381288,
+"message":{"message_id":3062,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415758,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:39:40] REQUEST FROM TELEGRAM:
+{"update_id":49381289,
+"message":{"message_id":3063,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415759,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:39:51] REQUEST FROM TELEGRAM:
+{"update_id":49381290,
+"message":{"message_id":3064,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415760,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:40:01] REQUEST FROM TELEGRAM:
+{"update_id":49381291,
+"message":{"message_id":3065,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415761,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:40:11] REQUEST FROM TELEGRAM:
+{"update_id":49381292,
+"message":{"message_id":3066,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415762,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-04-28 22:40:22] REQUEST FROM TELEGRAM:
+{"update_id":49381293,
+"message":{"message_id":3067,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777415763,"text":"/spam","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-05-05 07:59:26] REQUEST FROM TELEGRAM:
+{"update_id":49381326,
+"message":{"message_id":3103,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777967967,"text":"/help","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+
+[2026-05-05 08:00:22] REQUEST FROM TELEGRAM:
+{"update_id":49381327,
+"message":{"message_id":3105,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777968023,"text":"/bc t\u1ea1m d\u1eebng ae nh\u00e9","entities":[{"offset":0,"length":3,"type":"bot_command"}]}}
+
+[2026-05-05 08:01:35] REQUEST FROM TELEGRAM:
+{"update_id":49381328,
+"message":{"message_id":3106,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777968096,"text":"/bc tamdung","entities":[{"offset":0,"length":3,"type":"bot_command"}]}}
+
+[2026-05-05 08:03:14] REQUEST FROM TELEGRAM:
+{"update_id":49381329,
+"message":{"message_id":3107,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1777968194,"text":"/bc tamdung","entities":[{"offset":0,"length":3,"type":"bot_command"}]}}
+
+[2026-06-01 17:37:57] REQUEST FROM TELEGRAM:
+{"update_id":541327463,
+"message":{"message_id":1,"from":{"id":6779926546,"is_bot":false,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","language_code":"vi"},"chat":{"id":6779926546,"first_name":"Chu","last_name":"Ph\u01b0\u01a1ng","username":"MPhuowng","type":"private"},"date":1780335478,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
+[2026-06-01 18:00:01] REQUEST FROM TELEGRAM:
+{"update_id":541327464,
+"message":{"message_id":2,"from":{"id":8554789060,"is_bot":false,"first_name":"Lee Sang","last_name":"Hiec","language_code":"vi"},"chat":{"id":8554789060,"first_name":"Lee Sang","last_name":"Hiec","type":"private"},"date":1780336802,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+
